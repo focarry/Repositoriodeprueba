@@ -1,1 +1,3 @@
-print( "hello word")
+hola=" Hello word Ubuntuuuu"
+
+print(hola)
